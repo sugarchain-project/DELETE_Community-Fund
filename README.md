@@ -1,3 +1,5 @@
+# ~~OUTDATED~~
+
 # [Sugarchain](https://github.com/sugarchain-project) Community-Fund
 
 Community fund manager: [AestheticSenpai](https://twitter.com/AestheticSenpa1)
